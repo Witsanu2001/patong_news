@@ -15,7 +15,7 @@
     </div>
   </div>
 
-  <a href="./admin" target="_blank" class="admin-link">
+  <a href="./admin_s" target="_blank" class="admin-link">
     <i class="bi bi-gear-fill ms-auto"></i>
     <span class="admin-tooltip">สำหรับเจ้าหน้าที่ admin</span>
 </a>
